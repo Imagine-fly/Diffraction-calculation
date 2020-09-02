@@ -1,0 +1,18 @@
+﻿  Angle_mutation_g_add.c
+  Angle_mutation_g_less.c
+  calTriNormal.c
+  Complex_number_operations.c
+  cross.c
+  Definite_integral.c
+  Distance_parameter_L.c
+  dot.c
+E:\VS_Wrokplace\版本二\Diffraction_strength_calculation\Diffraction_strength_calculation\dot.c(5,12): warning C4101: “temp”: 未引用的局部变量
+  Fresnel.c
+  Incident_diffraction_coefficient_Di.c
+  Incident_diffraction_coefficient_Dr.c
+  main.c
+  norm.c
+  sign.c
+  Space_attenuation_factor_A.c
+  正在生成代码...
+  Diffraction_strength_calculation.vcxproj -> E:\VS_Wrokplace\版本二\Diffraction_strength_calculation\Diffraction_strength_calculation\Debug\Diffraction_strength_calculation.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Diffraction_strength_calculation", "Diffraction_strength_calculation.vcxproj", "{FEC1F974-23F0-4EC9-8196-5C882B74CE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Debug|x64.ActiveCfg = Debug|x64
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Debug|x64.Build.0 = Debug|x64
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Debug|x86.Build.0 = Debug|Win32
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Release|x64.ActiveCfg = Release|x64
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Release|x64.Build.0 = Release|x64
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Release|x86.ActiveCfg = Release|Win32
+		{FEC1F974-23F0-4EC9-8196-5C882B74CE97}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {950BA3F1-1007-4003-9F2A-BAC1FCD398E8}
+	EndGlobalSection
+EndGlobal
